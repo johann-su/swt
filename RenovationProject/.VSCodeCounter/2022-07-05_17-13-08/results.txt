@@ -1,0 +1,53 @@
+Date : 2022-07-05 17:13:08
+Directory : /Users/johann/github/Softwaretechnologie/RenovationProject
+Total : 26 files,  1030 codes, 12 comments, 139 blanks, all 1181 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         25 |      1,020 |         12 |        130 |      1,162 |
+| Markdown |          1 |         10 |          0 |          9 |         19 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                            | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                               |         26 |      1,030 |         12 |        139 |      1,181 |
+| bin                                                                                             |         13 |        311 |         12 |          1 |        324 |
+| src                                                                                             |         12 |        709 |          0 |        129 |        838 |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                        | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| /Users/johann/github/Softwaretechnologie/RenovationProject/README.md                            | Markdown |         10 |          0 |          9 |         19 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/Flooring.class                   | Java     |         19 |          0 |          0 |         19 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/FlooringTest.class               | Java     |         20 |         10 |          0 |         30 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/Material.class                   | Java     |         19 |          0 |          0 |         19 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/MaterialTest$MaterialDummy.class | Java     |         13 |          0 |          0 |         13 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/MaterialTest.class               | Java     |         32 |          0 |          1 |         33 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/Paint.class                      | Java     |         19 |          0 |          0 |         19 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/PaintTest.class                  | Java     |         32 |          0 |          0 |         32 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/RenovationObject.class           | Java     |          5 |          0 |          0 |          5 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/RenovationObjectTest.class       | Java     |         27 |          0 |          0 |         27 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/StructuredObject.class           | Java     |         23 |          0 |          0 |         23 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/StructuredObjectTest.class       | Java     |         39 |          0 |          0 |         39 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/Surface.class                    | Java     |         29 |          2 |          0 |         31 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/bin/SurfaceTest.class                | Java     |         34 |          0 |          0 |         34 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/Flooring.java                    | Java     |         21 |          0 |          5 |         26 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/FlooringTest.java                | Java     |         79 |          0 |         15 |         94 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/Material.java                    | Java     |         30 |          0 |          6 |         36 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/MaterialTest.java                | Java     |         66 |          0 |         13 |         79 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/Paint.java                       | Java     |         26 |          0 |          7 |         33 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/PaintTest.java                   | Java     |        107 |          0 |         16 |        123 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/RenovationObject.java            | Java     |          5 |          0 |          2 |          7 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/RenovationObjectTest.java        | Java     |         32 |          0 |          6 |         38 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/StructuredObject.java            | Java     |         53 |          0 |          7 |         60 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/StructuredObjectTest.java        | Java     |         98 |          0 |         21 |        119 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/Surface.java                     | Java     |         58 |          0 |          9 |         67 |
+| /Users/johann/github/Softwaretechnologie/RenovationProject/src/SurfaceTest.java                 | Java     |        134 |          0 |         22 |        156 |
+| Total                                                                                           |          |      1,030 |         12 |        139 |      1,181 |
++-------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
